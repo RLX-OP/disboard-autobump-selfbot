@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "RLX",
-  "license": "",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.0",
     "discord.js-self": "^12.0.4",

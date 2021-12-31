@@ -9,9 +9,9 @@ const client = new Client();
 require('./server');
 
 
-/* -- Messages In console when Client/User is Ready -- */
+/* -- Messages In console when Client/User is Ready and Warning for selfbot dangers -- */
 client.on('ready', () => {
-        console.log(chalk.bgRed('[WARNING]: SELF BOT IS AGAINST THE DISCORD TOS. YOU MAY EVEN GET BANNED FOR THAT, WE ARE NOT RESPONSIBLE FOR ANY DAMAGES.'))
+        console.log(chalk.bgRed('[WARNING]: SELF BOT IS AGAINST THE DISCORD TOS. YOU MAY EVEN GET BANNED FOR THAT, WE ARE NOT RESPONSIBLE FOR ANY DAMAGES!'))
     console.log(chalk.bgBlue(`[CLIENT]: Logged in as ${client.user.tag}`))
 });
 

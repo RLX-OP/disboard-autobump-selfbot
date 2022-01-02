@@ -1,6 +1,6 @@
 # Disboard Auto Bump Self-Bot
 
-### `DISCLAIMER:` SELF BOT IS AGAINST THE DISCORD TOS. YOU MAY EVEN GET BANNED FOR THAT.
+### `DISCLAIMER:` SELF BOT IS AGAINST THE DISCORD TOS. YOU MAY EVEN GET BANNED FOR USING THIS.
 
 ![logo](https://media.discordapp.net/attachments/860187385206800384/926460158656282724/unknown.png)
 - Faster than `bump reminder`

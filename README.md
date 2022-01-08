@@ -7,7 +7,7 @@
 
 ***
 ## CREDITS
-### [**Made by RLX**](https://discord.com/invite/SN3mZPxjEW) [**and Mathiscool**](https://discord.io/botsuniversity)
+### Made by [**RLX**](https://discord.com/invite/SN3mZPxjEW) and [**Mathiscool**](https://discord.io/botsuniversity)
 
 ### [**WebServer and README by Milrato**](https://support.milrato.eu)
 
